@@ -1,0 +1,94 @@
+#messages {
+    align-content: center;
+}
+
+table {
+    width: 80%;
+    margin: 0 auto;
+}
+
+table img {
+    height: 15px;
+    width: 15px;
+}
+
+caption {
+    caption-side: top;
+}
+
+th {
+    text-align: center;
+}
+
+#user {
+    width: 18%;
+}
+
+#email {
+    width: 18%; 
+}
+
+#datemessage {
+    width: 10%;
+}
+
+#message {
+   word-wrap: break-word;
+}
+
+textarea {
+    resize: none;
+    height: 120px;
+    width: 100%;
+}
+
+form {
+    border: 1px;
+    border-style: solid;
+    width: 50%;
+    padding: 15px;
+    margin: 0 auto;
+    font-weight: bold;
+}
+
+.txtfield {
+    width: 100%;
+}
+
+#capchafield {
+    padding-left: 15px;
+    width: 150px;
+}
+
+#capcha {
+
+}
+#sendbtn {
+    margin-left: auto;
+}
+#page_numbers {
+    width: 80%;
+    margin: 0 auto;
+}
+#header {
+    height: 90px;
+    width: 100%;
+    background-color: #5d76cb;
+    text-align: center;
+    color: #ffffff;
+    vertical-align: bottom;
+}
+
+h1 {
+    font-size: 60px;
+}
+#footer {
+    background-color: #5d76cb;
+    height: 10px;
+    width: 100%;
+}
+
+.error {
+    color: red;
+    font-size: 14px;
+}
